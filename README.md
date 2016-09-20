@@ -1,0 +1,2 @@
+# Leetcode
+Leetcode by Javascript
