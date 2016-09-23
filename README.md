@@ -14,3 +14,7 @@ Leetcode with Javascript
 | 9    | Palindrome Number | Easy | [Source Code](./algorithms/9_PalindromeNumber.js) |
 | 10   | Regular Expression Matching  | Hard | [Source Code](./algorithms/10_RegularExpressionMatching.js) |
 | 11   | Container With Most Water  | Medium | [Source Code](./algorithms/11_ContainerWithMostWater.js) |
+| 12   | Integer to Roman  | Medium | [Source Code](./algorithms/12_IntegerToRoman.js) |
+| 13   | Roman to Integer  | Easy | [Source Code](./algorithms/13_RomanToInteger.js) |
+| 14   | LongestCommonPrefix  | Easy | [Source Code](./algorithms/14_LongestCommonPrefix.js) |
+| 15   | 3Sum  | Medium | [Source Code](./algorithms/15_3Sum.js) |
