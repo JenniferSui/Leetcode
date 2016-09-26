@@ -18,3 +18,8 @@ Leetcode with Javascript
 | 13   | Roman to Integer  | Easy | [Source Code](./algorithms/13_RomanToInteger.js) |
 | 14   | LongestCommonPrefix  | Easy | [Source Code](./algorithms/14_LongestCommonPrefix.js) |
 | 15   | 3Sum  | Medium | [Source Code](./algorithms/15_3Sum.js) |
+| 16   | 3Sum Closest  | Medium | [Source Code](./algorithms/16_3SumClosest.js) |
+| 17   | Letter Combinations of a Phone Number | Medium | [Source Code](./algorithms/17_letterCombinationsOfAPhoneNumber.js) |
+| 18   | 4Sum | Medium | [Source Code](./algorithms/18_4Sum.js) |
+| 19   | Remove Nth Node From End of List | Easy | [Source Code](./algorithms/19_RemoveNthNodeFromEndOfList.js) |
+| 20   | Valid Parentheses | Easy | [Source Code](./algorithms/20_ValidParentheses.js) |
